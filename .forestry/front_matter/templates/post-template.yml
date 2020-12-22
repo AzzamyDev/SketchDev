@@ -21,4 +21,5 @@ fields:
   default: []
   label: tags
 pages:
+- content/post/membuat-project-baru-di-sketchware.md
 - content/post/tutorial-sketchware-pemula.md
