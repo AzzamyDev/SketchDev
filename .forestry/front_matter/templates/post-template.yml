@@ -20,3 +20,5 @@ fields:
   type: tag_list
   default: []
   label: tags
+pages:
+- content/post/tutorial-sketchware-pemula.md
