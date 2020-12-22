@@ -4,3 +4,4 @@ tags = []
 title = "Tutorial Sketchware Pemula"
 
 +++
+Hai disini saya mau meberikan tutorial bagi pengguna sketchware pemula
